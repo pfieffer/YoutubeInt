@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ravi/AndroidStudioProjects/YoutubeInt/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_ee3caf9c79456c3ce46aa72a0881949cc06486e9.jar" />
+    </item>
+
+</items>
