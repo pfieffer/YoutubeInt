@@ -13,6 +13,8 @@ bin/
 gen/
 out/
 
+# Specific to this project
+app/youtube.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
