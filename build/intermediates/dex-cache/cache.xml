@@ -2,13 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="717715f2f3fba8d55a419063651b50b056a88fc6">
+        <dex dex="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1de9e12b0027ca8eaa691b686aed6f2163102ce8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea41629df6c68b92f156bcc7724fcc520aa4d881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ravi/AndroidStudioProjects/YoutubeInt/app/libs/YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_ee3caf9c79456c3ce46aa72a0881949cc06486e9.jar" />
+        <dex dex="/home/ravi/AndroidStudioProjects/YoutubeInt/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_ee3caf9c79456c3ce46aa72a0881949cc06486e9/classes.dex" />
     </item>
 
 </items>
